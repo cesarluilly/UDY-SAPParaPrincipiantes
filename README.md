@@ -124,16 +124,70 @@ Imaginemo que hemos creado un pequeño negocio.
 * Las flores ya no son suficientes para sastifacer la demanda de los clientes
 * Por lo tanto decidiste comprar flores de otros Proveedores y venderlas
 * Eso si hay que guardarlos en algun sitio y ya se lleno el sotano
-* Alquilas un almacen
-* Se debe registrar 
-Min: 5:20
-
-
-
-
-
-
-
+* Alquilas un almacen tiene estanterias en stock y productos bien clasificados por tipo, tamaño, etc
+* Debes registrar cuidadosamente cuantas mercancias lleva al almacen, entrada de mercancias y cuantas tomar para la venta, salida de mercancias
+* Se necesita esta informacion para poder ver cuantos productos tienes en stock para la venta en cualquier momento
+* Tambien se necesita algun sistema de gestion de almacenes 
+* Despues de algun tiempo tus notas notas y claculos en papel o excel se vuelven demasiado complicados
+* Estas comprando un software para la gestion de materiales con gestion de almacenes
+* Rellena una entrada de mercancias para cada entrega y una salida de mercancias cuando se liberan las mercancias y los calculos se hacen automaticamente y puedes hacer inventario de ves en cuando
+* Tu empresa es tan buena que ahora necesitas ayuda y por lo tanto empiezas a contratar gente
+* Si contratas gente tienes cosas nuevas que administrar como pagar un salario, la gente tiene algunos dias de vacaciones al mes, por lo que debes gestionar la notificacion de ausencia
+* La gente se da de baja por enfermedad y asi sucesivamente
+* Todos se denomina HR departamento de recursos humano 
+* Es demaciado para excel y la gestion de papel
+* Asi que compras un softare para administrar las nominas y los recursos humanos en general
+* Tu surtido esta creciendo, la gente no solo quiere flores cortadas, si no quiero flores en maceta
+![1717642560744](image/README/1717642560744.png)
+* Compras no solo flores, si no tambien tierra y macetas
+* Creas una linea de ensamblaje donde las personas y quezas las maquinas luego producen hermosos conjuntos de flores en maceta
+* Cada conjunto tiene su prescripcion de produccion, diferentes requisitos de producto y tiempo de produccion
+* Todas las recetas de produccion, el reequipamiento de maquinas son tan complicados que ni si quiera intentas usar excel aqui
+* `Compras un sistema de gestion de produccion de inmediato`
+![1717642763179](image/README/1717642763179.png)
+* Hay garantia de calidad y control en este sistema
+* Gestionar el proceso de produccion con cambios de diseño, etapas de produccion, hitos, estados de productos, historial de produccion, hojas de tiempo de los empleados, estimacion, demanda de materiales, mano de obra para la produccion, reequipamiento de lineas de produccion y mucho mas
+* La empresa es realmente grande
+![1717642919794](image/README/1717642919794.png)
+* Un buen trabajo para un chico que empezo vendiendo flores en la plaza del mercado ahora ya es dueño de una organizacion
+* Para administrar un gran negocio necesitas utilizar informes y analisis
+* Pero mira, tienes 4 areas de negocio y 4 sistemas diferentes
+![1717643039643](image/README/1717643039643.png)
+* Hay mucha informacion separada, ninguno de estos sistemas se comunica entre si
+* Estos sistemas no comparten datos y eso causa muchos problemas
+* Por ejemplo, siempre tienes algunos problemas de que tus flores en macetas se venden y no produjiste suficientes productos nuevos, o al reves produjiste demasiado y tus flores se marchitaron porque hubo mucha produccion
+* El informe para analizar tendencias en ventas y produccion resolveria el problema, pero ojo, no se puede hacer eso porque se tiene toda la informacion en diferentes sistemas
+* A veses tu produccion se atasca porque no hay suficiente subcomponentes en su almacenamiento, por lo que debes pedirlos y hasta la entrega si produccion se detiene
+* Por lo tanto, es falta de eficiencia ya que nuestro sueño es tener almacenamiento y produccion en un solo sistema
+* De esa forma, durante la planificacion de la produccion se generaria automaticamente la demanda de nuevas compras
+* Se puede crear un informe para verificar eso y predecir nuevas compras, pero OJO, no se puede hacer eso porque toda la informacion esta en diferentes sistema
+* Planeaste una semana de produccion de trabajo y resulto que algunos de tus empleados clave estan fuera en este momento
+* Y ojo, te olvidaste de eso, solo el departamento de recursos humanos tenia esa informacion
+* Te encantaria tene un sistema que verifique la presencia de los empleados durante la planificacion de la produccion
+* `Si quieres tomar tus decisiones empresariales`, necesitas ver el rendimiento de los empleados durante la planificacion de la produccion
+* En base a esos datos, puedes tomar algunas decision estrategicas, y hacer coincidir las ventas con las de produccion, un stock con las ventas, la oferta con la producciones, un stock con las ventas, la oferta con la demanda, produccion con recursos humanos
+* Para todo eso necesitas algunos datos de un sistema
+* Ahora imaginate que tu empresa esta creciendo y abriendo sucursales en todo el mundo, por lo tanto surgirian muchos mas problemas de este tipo
+* Es dificil ser un hombre de negocios
+![1717643975208](image/README/1717643975208.png)
+* Con lo siguiente, se puede hacer que toda la empresa se puede intercomunicar entre si, y compartir informacion.
+ 
+* Un sistema centralizado completo, con una base de datos, este sistema centralizado 
+* Este sistema cubre todas las necesidades.
+* Este tipo de sistemas se llama ERP
+* La mayoria de los sistemas ERP, se componen de diferentes modulos de aplicacion que se comunian entre si y comparte una base de datos
+* `Mira Ahora el modulo refleja un area comercial determinada para lo que antes necesitabamos un sistema separado`
+* `Software para facturas que compramos primero ahora es SD`
+* Modulo de ventas y distribucion, se puede nombra el reemplazo del softwar ede administracion de almacenamiento
+* `M` modulo de gestion de materiales
+* `PP es la planificacion de la produccion`
+* Nuesto software de recursos humanos ahora es un modulo de recursos humanos en el sistema ERP
+* Tambien puede haber modulos especificados a las industrias, desde la fabricacion hasta el comercio minorista
+* Como sabes, puede haber muchos sistemas ERP y los nombres de estas areas pueden ser ligeramente diferentes
+* `Esto es solo un ejemplo, pero por lo general son similares y pueden cubrir areas similares`
+* Por supuesto, podemos tener muchas otras areas de negocio y modulos en el ejemplo de la floristeria
+* Se mostro las zonas mas populares y el concepto de todos los sistemas ERP, pero lo mas `importante` es que se pueden combinar diferentes modulos para sastifacer sus necesidades, es decir tienes todo en uno
+* ``Tienes ERP``, y es un sistema para gestionar toda la empresa
 
 ### Video 3. Las caracteristicas mas importantes del software ERP
 
